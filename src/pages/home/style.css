@@ -1,0 +1,135 @@
+*, body
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#medico, #paciente
+{
+    position: fixed;
+    top: 0;
+
+    height: 100%;
+    width: 50%;
+    
+    padding: 20px;
+
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+#medico
+{
+    left: 0;
+    background-color: #202020;
+}
+
+#paciente
+{
+    right: 0;
+    background-color: #7F24BF;
+}
+
+.title
+{ 
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.content
+{
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+}
+
+.list
+{
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+.list-item
+{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 25px;
+}
+
+.list-item-icon
+{
+    height: 30px;
+    padding-right: 25px;
+    color: #fff;
+}
+
+.image
+{
+    margin: auto;
+
+    height: 45em;
+    width: auto;
+}
+
+#medico .button
+{
+    background-color: #7F24BF;
+}
+
+#paciente .button
+{
+    background-color: #202020;
+}
+
+.bottom
+{   
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+    width: 100%;
+    height: 8em;
+}
+
+.button
+{
+    margin: auto;
+
+    width: 20em;
+    height: 6em;
+    border-radius: 3em;
+    
+    text-align: center;
+}
+
+.button-text
+{
+    font-family: 'Lalezar', cursive;
+    font-size: 72px;
+}
+
+#astronauta
+{
+    position: fixed;
+    top: 0;
+    right: 0;
+
+    width: 11em;
+    height: 11em;
+    border-bottom-left-radius: 10em;
+
+    background-color: #202020;
+}
+
+.astronauta-icon
+{
+    position: fixed;
+    top: 1em;
+    right: 1em;
+
+    width: 6em;
+    height: auto;
+
+    color: #fff;
+}
