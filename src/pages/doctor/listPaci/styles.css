@@ -97,6 +97,15 @@ body{
     justify-content: space-between;
 }
 
+.allPacients a{
+    text-decoration: none;
+    color: var(--white);
+}
+
+.pacient:hover{
+    border: 1px var(--white) solid;
+}
+
 .pacient{
     width: 90%;
     height: fit-content;
