@@ -34,14 +34,12 @@ body{
     height: auto;
     color: var(--white);
     padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-.navItem:hover + .popup{
-    display: block;
-}
-
-.popup{
-    display: none;
+.icon:hover{
+    color: var(--gray);
 }
 
 .doctor{
