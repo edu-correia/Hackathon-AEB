@@ -42,3 +42,45 @@ body{
 .icon:hover{
     color: var(--purple);
 }
+
+.doctor{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.profileImg{
+    width: 60px;
+    height: 60px;
+    border: 1px solid var(--gray);
+    border-radius: 50%;
+}
+
+.doctor h1{
+    margin-left: 20px;
+    float: right;
+    font-size: 62px;
+    font-family: none;
+}
+
+.data{
+    display: flex;
+    width: fit-content;
+}
+
+.doctor p{
+    font-size: 24px;
+}
+
+.doctor span{
+    background-color: var(--gray);
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5px;
+    width: fit-content;
+    height: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
