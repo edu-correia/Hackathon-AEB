@@ -2,7 +2,7 @@
 # Aplicativo
 ***
 ## Público alvo:
-* Qualquer batata que estiver na Terra e no Espaço;
+* O app é dividido em várias partes, temos a parte dos "Astronaustas", que é voltada a resolução da proposta do desafio da AEB, mas também a parte do resto da população, que contém a parte do Médico e do Paciente;
 ***
 ## Funcionalidades
 * Recebe os dados coletados pela [pulseira](https://github.com/eduardo-ehsc/Hackathon-AEB/blob/master/Documentos/Pulseira.md);
