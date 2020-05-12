@@ -1,7 +1,10 @@
 # Hackathon-AEB
 
 ## Site:
-* [Aplicação Web](https://eduardo-ehsc.github.io/Hackathon-AEB/)
+* [Aplicação Web](https://eduardo-ehsc.github.io/Hackathon-AEB/) (Não finalizado)
+
+## Vídeo
+* [Vídeo no youtube](https://youtu.be/9F21rAa_ZqE)
 
 ## Partes do projeto:
 * [Documentação do Aplicativo](https://github.com/eduardo-ehsc/Hackathon-AEB/blob/master/Documentos/Aplicativo.md)
