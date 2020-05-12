@@ -1,5 +1,5 @@
 ***
-# Pulseira "nome show"
+# Pulseira SmartBand
 ***
 ## Funcionalidades da pulseira
 * Medir a temperatura corporal para poder identificar uma possível febre;
